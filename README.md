@@ -4,7 +4,7 @@
 </p>
 
 -----
-### <p align="center">🧠 &nbsp;Moi</p>
+### <p align="center">� &nbsp;Moi</p>
 <br>
 <p align="center">
   J'ai 12 ans, j'apprends le développement 🙂
