@@ -7,7 +7,7 @@
 ### <p align="center">� &nbsp;Moi</p>
 <br>
 <p align="center">
-  J'ai 12 ans, j'apprends le développement 🙂
+  J'ai 12 ans, j'apprends le développement 🙂bientot 13 XD
   <br>
   <br>
   <br>
