@@ -1,45 +1,13 @@
-------
-<p align = "center">
-<img src="https://thumbs.gfycat.com/UnacceptableAltruisticAdamsstaghornedbeetle-size_restricted.gif">
-</p>
+# **V E N U S**<br>
+> [![Visitor Count](https://profile-counter.glitch.me/{venaxyt}/count.svg)](https://www.youtube.com/VENAX59)<br>
+> [![](https://komarev.com/ghpvc/?username=eywix)](https://www.youtube.com/VENAX59)
+> [![discord](https://discord.com/api/guilds/267624335836053506/widget.png)](https://discord.gg/tPSkKbtWPU)
+> [![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)](youtube.com/channel/UCNjrsynaZcgYr0CY4_gGiLQ)
+> [![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)](youtube.com/channel/UCNjrsynaZcgYr0CY4_gGiLQ)
+> [![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)](youtube.com/channel/UCNjrsynaZcgYr0CY4_gGiLQ)<br>
+> [![](https://github-readme-stats.vercel.app/api/top-langs?username=venaxyt&show_icons=true&locale=en&theme=midnight-purple)](youtube.com/channel/UCNjrsynaZcgYr0CY4_gGiLQ)
+[![Commits](https://github-readme-stats.vercel.app/api?username=eywix&include_all_commits=true&count_private=true&show_icons=true&theme=midnight-purple)](https://www.youtube.com/VENAX59)<br>
+> <img src="https://media.discordapp.net/attachments/885832012773081091/890225312057679913/Capture.PNG"><br>
+> **Contact : 𝙑𝙀𝙉𝙐𝙎#2850**<br>
+> **I code in Python, HTML and CSS.**<br>
 
------
-### <p align="center">� &nbsp;Moi</p>
-<br>
-<p align="center">
-  J'ai 12 ans, j'apprends le développement 🙂bientot 13 XD
-  <br>
-  <br>
-  <br>
-  <img src="https://i.gifer.com/origin/76/766a4a276bbc6f22d566a4bd6a7bbcd9_w200.gif">
-  <br>
-  <br>
-  <br>
-  <a href="https://www.youtube.com/channel/UCNjrsynaZcgYr0CY4_gGiLQ">📺 Ma chaîne YouTube 📺</a>
-  <br>
-  <br>
-  <a href="https://discord.gg/PYDMyuWXvE">💬 Mon serveur Discord �</a>
-  <br>
-  <br>
-  <a href="https://discord.gg/7zXR2C8hS6">💬 Serveur Discord de mon pote  �</a>
-  <br>
-  <br>
-</p>
-
------
-<p align = "center">
-<img src="https://i.pinimg.com/originals/15/5f/a0/155fa0f038be246c77914fb12836eadc.gif">
-</p>
-
------
-###   Mes langages</h1>
-### <p align="center"> <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">    <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"> </p>
------
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Ako-fr?style=social">
-  <img src="https://img.shields.io/github/stars/Ako-fr?style=social">
-  <img src="https://komarev.com/ghpvc/?username=Ako-fr&color=blue">
-</p>
-
------
